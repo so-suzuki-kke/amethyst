@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "fe9fd872e88ca850",
+    "type": "split",
+    "children": [
+      {
+        "id": "631d959c00387562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3812805955ef841a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/calculation/docs/stiffness/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afca2cbb112b5423",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c194a611340631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6c9cfb43e8d94d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec69d004c894c616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a394e5bac65aba48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd975c7750ee4a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec3599598183d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f901885648d609e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/calculation/docs/stiffness/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fd1e0b049a4b021",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/calculation/docs/stiffness/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bbfba9908ca59ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4775b49aa527b734",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/calculation/docs/stiffness/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "3812805955ef841a",
+  "lastOpenFiles": [
+    "config.yaml",
+    "go.mod",
+    "LICENSE",
+    "Makefile",
+    "README.md",
+    "theme.toml",
+    "archetypes/posts.md",
+    "archetypes/docs.md",
+    "archetypes",
+    "assets/quartz/js/util.js",
+    "assets/quartz/js/sw-register.js",
+    "assets/quartz/js/sw.js",
+    "assets/quartz/js/popover.js",
+    "assets/quartz/js/semantic-search.js",
+    "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-47-15.png",
+    "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-57-35.png",
+    "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-48-36.png",
+    "content/calculation/docs/extra-calculation/img/2022-12-01-10-47-23.png",
+    "content/calculation/docs/extra-calculation/img/2022-12-01-09-58-25.png",
+    "content/calculation/docs/extra-calculation/img/2022-12-01-10-47-04.png",
+    "content/calculation/docs/extra-calculation/img/2022-12-01-10-46-40.png",
+    "content/calculation/docs/extra-calculation/img/2022-12-01-09-58-49.png",
+    "content/calculation/docs/ultimate-judge/index.md",
+    "content/calculation/docs/ultimate-judge/final-test_rectangle-column2.png",
+    "content/calculation/docs/ultimate-judge/final-test_rectangle-column1.png",
+    "content/calculation/docs/stiffness/index.md",
+    "content/calculation/docs/stress-calculation/index.md",
+    "content/calculation/docs/seismic-isolation-layer-design/index.md",
+    "content/calculation/docs/quantity-calculation/index.md",
+    "content/calculation/docs/nonlinear-analysis/index.md",
+    "content/calculation/docs/load/index.md",
+    "content/calculation/docs/extra-calculation/index.md",
+    "content/calculation/docs/material-nonlinearmodel/index.md",
+    "content/calculation/docs/allowable-judge/index.md",
+    "content/_index.md"
+  ]
+}
