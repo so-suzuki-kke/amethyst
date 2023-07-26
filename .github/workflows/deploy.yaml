@@ -37,3 +37,4 @@ jobs:
           publish_dir: ./docs
           publish_branch: deploy  # deploying branch
           cname: so-suzuki-kke
+
