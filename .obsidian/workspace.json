@@ -146,8 +146,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "3812805955ef841a",
+  "active": "1f6c9cfb43e8d94d",
   "lastOpenFiles": [
+    "docs",
     "config.yaml",
     "go.mod",
     "LICENSE",
@@ -161,7 +162,6 @@
     "assets/quartz/js/sw-register.js",
     "assets/quartz/js/sw.js",
     "assets/quartz/js/popover.js",
-    "assets/quartz/js/semantic-search.js",
     "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-47-15.png",
     "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-57-35.png",
     "content/calculation/docs/nonlinear-analysis/img/2023-01-04-10-48-36.png",
