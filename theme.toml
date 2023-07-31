@@ -6,11 +6,11 @@ license = "MIT"
 licenselink = "https://github.com/64bitpandas/amethyst/blob/main/LICENSE"
 description = "Obsidian-compatible Hugo theme for personal notes"
 homepage = "https://github.com/64bitpandas/amethyst"
-demosite = "https://amethyst.bencuan.me"
+demosite = "https://amethyst.bencuan.me/"
 tags = ["responsive", "notes", "obsidian", "obsidian-md", "latex", "documentation", "docs", "flexbox", "search", "mobile", "multilingual", "graph"]
 features = []
 min_version = "0.93"
 
 [author]
   name = "Ben Cuan"
-  homepage = "https://bencuan.me"
+  homepage = "https://bencuan.me/"
